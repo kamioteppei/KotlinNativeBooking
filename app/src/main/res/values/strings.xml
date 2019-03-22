@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">KotlinNativeBooking</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_dtFrom">宿泊開始日</string>
+    <string name="title_dtTo">宿泊終了日</string>
+    <string name="title_btnSearch">検索する！</string>
+    <string name="title_btnBooking">予約する！</string>
+    <string name="title_bookableHoltel">ホテル名</string>
+    <string name="title_bookableCharge">9999円 / 1泊</string>
+    <string name="title_bookableOption1">オプション１</string>
+    <string name="title_bookableOption2">オプション２</string>
+    <string name="title_bookableOption3">オプション３</string>
+</resources>
