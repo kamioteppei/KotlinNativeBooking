@@ -8,5 +8,6 @@ data class BookableData(
     var hotel: HotelData? = null,
    @SerializedName("room_count")
     var roomCount: Int? = null,
-    var dtFrom: Date? = null
+    var dtFrom: Date? = null,
+    var dtTo: Date? = null
 )

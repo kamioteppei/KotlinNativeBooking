@@ -12,4 +12,5 @@
     <string name="title_bookableOption1">オプション１</string>
     <string name="title_bookableOption2">オプション２</string>
     <string name="title_bookableOption3">オプション３</string>
+    <string name="title_bookableRoomCount">残り 3部屋</string>
 </resources>
